@@ -38,8 +38,8 @@
 
 /* Begin PBXFileReference section */
 		41688A41EC40D875FAF69979 /* Pods-DCPersonPreferenceKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DCPersonPreferenceKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-DCPersonPreferenceKit_Example/Pods-DCPersonPreferenceKit_Example.release.xcconfig"; sourceTree = "<group>"; };
-		44F3CD9D9E4C57F6584E9A24 /* DCPersonPreferenceKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = DCPersonPreferenceKit.podspec; path = ../DCPersonPreferenceKit.podspec; sourceTree = "<group>"; };
-		5595DC8319FA0D87FD41BC8C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		44F3CD9D9E4C57F6584E9A24 /* DCPersonPreferenceKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = DCPersonPreferenceKit.podspec; path = ../DCPersonPreferenceKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		5595DC8319FA0D87FD41BC8C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* DCPersonPreferenceKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DCPersonPreferenceKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -61,7 +61,7 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		6BA07FFC43B6B9EC58812E55 /* Pods_DCPersonPreferenceKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DCPersonPreferenceKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		72788028FA1683746F856B38 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		72788028FA1683746F856B38 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		758F640FE4B5006D5440E90A /* Pods-DCPersonPreferenceKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DCPersonPreferenceKit_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DCPersonPreferenceKit_Example/Pods-DCPersonPreferenceKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A2446A58EE931F53D12A4A0D /* Pods_DCPersonPreferenceKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DCPersonPreferenceKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
