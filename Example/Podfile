@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DCPersonPreferenceKit_Example' do
+  pod 'DCPersonPreferenceKit', :path => '../'
+
+  target 'DCPersonPreferenceKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
