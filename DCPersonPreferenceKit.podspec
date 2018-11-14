@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DCPersonPreferenceKit'
-  s.version          = '0.1.0'
+  s.version          = '1'
   s.summary          = 'A short description of DCPersonPreferenceKit.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/363300495/DCPersonPreferenceKit'
+  s.homepage         = 'https://github.com/DCLearnMediator/DCPersonPreferenceKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '363300495' => '363300495@qq.com' }
-  s.source           = { :git => 'https://github.com/363300495/DCPersonPreferenceKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/DCLearnMediator/DCPersonPreferenceKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
